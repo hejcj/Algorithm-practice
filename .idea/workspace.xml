@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c66b67e3-c544-4eb4-9d7c-5582de97aa46" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_10699/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_10818/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_10950/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_10951/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_10952/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_10953/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_10991/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_10992/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_11021/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_11022/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_11328/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_11653/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_11718/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_11719/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_11720/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_11721/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_13300/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_1919/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_1924/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_2438/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_2439/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_2440/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_2441/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_2442/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_2445/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_2446/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_2522/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_2557/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_2558/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_2577/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_2739/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_2741/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_2742/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Bronze/_8393/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Silver/_1074/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Silver/_10844/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Silver/_11650/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Silver/_11726/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Silver/_1406/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Silver/_1463/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Silver/_1475/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Silver/_2751/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Silver/_3273/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Silver/_4779/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Silver/_4779/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Silver/_5397/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercisebook/BOJ/Silver/_9095/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LV19UwC0bWTKIvCgR8lPhuuIRq" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c66b67e3-c544-4eb4-9d7c-5582de97aa46" name="Changes" comment="" />
+      <created>1675941286043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675941286043</updated>
+      <workItem from="1675941289323" duration="5278000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.LinkedList$ListItr" memberName="next" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
